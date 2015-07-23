@@ -1,0 +1,32 @@
+{
+  "name": "putaquepariu",
+  "version": "0.0.1",
+  "description": "Monitor de consultas com retorno XML da BIPBOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste",
+    "integração",
+    "xml"
+  ],
+  "author": "Lucas Fernando Amorim <lf.amorim@bipbop.com.br>",
+  "license": "COPYRIGHT",
+  "dependencies": {
+    "async": "^1.3.0",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "log": "^1.4.0",
+    "loglevel": "^1.3.1",
+    "mongoose": "^4.0.6",
+    "node-getopt": "^0.2.3",
+    "process": "^0.11.1",
+    "request": "^2.58.0",
+    "sprintf": "^0.1.5",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.9",
+    "zabbix-sender": "^0.2.0"
+  }
+}

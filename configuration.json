@@ -1,0 +1,9 @@
+{
+    "group-name-example": {
+        "test-name-example": {
+            "description": "test-description", 
+            "url": "https://irql.bipbop.com.br/?cache=disabled&q=SELECT%20FROM%20%27BIPBOPJS%27.%27CEP%27&apiKey=6057b71263c21e4ada266c9d4d4da613&cep=99050290",
+            "xpath": []
+        }
+    }
+}
