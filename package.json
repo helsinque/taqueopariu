@@ -12,7 +12,7 @@
     "xml"
   ],
   "author": "Lucas Fernando Amorim <lf.amorim@bipbop.com.br>",
-  "license": "COPYRIGHT",
+  "license": "MIT",
   "dependencies": {
     "async": "^1.3.0",
     "fs": "0.0.2",
