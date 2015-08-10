@@ -133,7 +133,7 @@ var performTest = function (group) {
 
         request({
             method: "GET",
-            url: "aaa" + parameters.url,
+            url: parameters.url,
             timeout: (opt.options.timeout ? parseInt(opt.options.timeout, 10) : 300) * 1000
         }, function (error, response, body) {
             log.info(sprintf("%s Recebemos a resposta do teste", idx));
